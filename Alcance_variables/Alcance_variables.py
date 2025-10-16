@@ -2,7 +2,7 @@
 AMBITO LOCAL
 """
 
-global_var=20 #Variable global
+global_var=20 #Variable globales
 
 def my_funcion():
     local_var=10 #Variable Local
